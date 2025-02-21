@@ -5,7 +5,7 @@ from bson import ObjectId
 app = Flask(__name__)
 
 # MongoDB connection URI
-MONGODB_URI = "mongodb+srv://HAMZA:1234%235678@cluster0.l2gs9.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+MONGODB_URI = "mongodb+srv://HAMZA:12345678hm@cluster0.l2gs9.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 # Connect to MongoDB
 try:
